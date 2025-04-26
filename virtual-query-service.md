@@ -112,7 +112,3 @@ Before you begin, you need:
 
    ```sql
    SELECT * FROM runQL WHERE runSource='your-token-goes-here';
-
-
-
-

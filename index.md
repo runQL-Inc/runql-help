@@ -4,62 +4,64 @@ title: "runQL Documentation"
 permalink: /
 ---
 
-# Welcome to runQL Docs
+# runQL Docs
 
-**runQL** is the source of truth for your queries. Centralize, secure, and scale your data workflows with ease.
+Centralize, secure, and scale your queries — without slowing your team down.
+
+runQL is the single source of truth for your SQL workflows, built for fast-moving data teams.
 
 ---
 
-## 📚 Explore the Documentation
+## 📚 Explore Documentation
 
 <div class="card-grid">
 
 <div class="card">
 <a href="/query-history-vs-saved-queries/">
-<strong>Query History vs Saved Queries</strong><br/>
-Understand the difference between automatic history and saved, versioned queries.
+<strong>Query History vs. Saved Queries</strong><br/>
+Learn how runQL handles automatic query history and saved versions.
 </a>
 </div>
 
 <div class="card">
 <a href="/certified-queries/">
 <strong>Certified Queries</strong><br/>
-Learn how to certify and validate important queries.
+Certify trusted queries through a pull-request style review.
 </a>
 </div>
 
 <div class="card">
 <a href="/importing-queries/">
 <strong>Importing Queries</strong><br/>
-Import queries from Git exports or .sql files with ease.
+Bring your `.sql` files and Git exports into runQL easily.
 </a>
 </div>
 
 <div class="card">
 <a href="/shared-connections/">
 <strong>Shared Connections</strong><br/>
-How to manage team-wide database connections securely.
+Secure team access to databases with shared, hidden credential setups.
 </a>
 </div>
 
 <div class="card">
 <a href="/virtual-query-service/">
 <strong>Virtual Query Service (runSource)</strong><br/>
-Deliver stable queries to external services without leaking credentials.
+Expose trusted query endpoints for BI tools without exposing credentials.
 </a>
 </div>
 
 <div class="card">
 <a href="/runsource-powerbi/">
 <strong>Using runSource with Power BI</strong><br/>
-Step-by-step guide to integrate with Power BI.
+Simple steps to connect Power BI directly to your runQL Virtual Queries.
 </a>
 </div>
 
 <div class="card">
 <a href="/adding-database-connections/">
 <strong>Adding Database Connections</strong><br/>
-Connect to BigQuery, Snowflake, Redshift, MongoDB, and more.
+Connect to BigQuery, Snowflake, Databricks, and more in a few clicks.
 </a>
 </div>
 
@@ -69,5 +71,7 @@ Connect to BigQuery, Snowflake, Redshift, MongoDB, and more.
 
 ## 🛠️ Quick Start
 
-👉 Jump into the [Getting Started guide](/getting-started/) (coming soon!)  
-👉 Or visit [runql.com](https://runql.com) for more product information.
+- 👉 [Get Started](/getting-started/) *(coming soon)*
+- 👉 Visit [runql.com](https://runql.com) for product info and updates.
+
+---

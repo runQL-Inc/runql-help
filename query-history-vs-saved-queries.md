@@ -1,7 +1,6 @@
 ---
-layout: page
 title: "Query History vs. Saved Queries"
-permalink: /query-history-vs-saved-queries/
+nav_order: 1
 ---
 
 # What is the difference between Query History and Saved Queries?

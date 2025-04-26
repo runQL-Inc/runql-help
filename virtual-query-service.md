@@ -26,3 +26,26 @@ FROM customers
 WHERE region = {{location}}
 ORDER BY invoiceAmount DESC
 LIMIT 10;
+
+SELECT * FROM runQL WHERE runSource='[generatedToken]' AND location=?;
+
+---
+
+### 📁 `runsource-powerbi.md`
+
+```markdown
+---
+layout: page
+title: "Using runSource with Power BI"
+permalink: /runsource-powerbi/
+---
+
+## Integrating runSource with Power BI
+
+1. In Power BI, expand **Advanced Options** to find the required SQL statement.
+2. Configure the connection:
+   - **Server**: `<HOST_IP_ADDRESS>:3001`
+   - **Database**: `runql`
+   - **SQL Statement**: `<runSource Query>`
+   - **Username**: `<any value>`
+   - **Password**: `<any value>`&#8203;:contentReference[oaicite:40]{index=40}

@@ -6,20 +6,20 @@
   margin: 2rem 0;
 }
 
-/* Individual card */
+/* Individual card style */
 .card {
-  border: 1px solid #eee;
+  border: 1px solid #e1e1e1;
   padding: 1.5rem;
   border-radius: 8px;
-  background-color: #fafafa;
-  transition: box-shadow 0.2s;
+  background: #fafafa;
+  transition: box-shadow 0.3s ease;
 }
 
 .card:hover {
-  box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+  box-shadow: 0 4px 12px rgba(0,0,0,0.1);
 }
 
-/* Card link styles */
+/* Card link style */
 .card a {
   text-decoration: none;
   color: inherit;

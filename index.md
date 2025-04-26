@@ -69,9 +69,6 @@ Connect to BigQuery, Snowflake, Databricks, and more in a few clicks.
 
 ---
 
-## 🛠️ Quick Start
-
-- 👉 [Get Started](/getting-started/) *(coming soon)*
 - 👉 Visit [runql.com](https://runql.com) for product info and updates.
 
 ---

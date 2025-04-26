@@ -1,24 +1,24 @@
 ---
 layout: page
-title: "Importing Queries from Git or .sql Files"
+title: "Importing Queries from Git or SQL Files"
 permalink: /importing-queries/
 ---
 
-## Importing Queries
+# How to Import Queries
 
-You can import `.sql` files into a workspace, whether they're on your desktop or exported from Git.&#8203;:contentReference[oaicite:10]{index=10}
+You can import `.sql` files into your workspace.  
+Files can come from your desktop or be exported from Git.
 
-**Notes:**
+## Important Notes
+- The `.sql` file name becomes the saved query title.
+- Each query (separated by a semicolon `;`) becomes a separate saved query.
+- Comments before queries become the saved query descriptions.
 
-- :contentReference[oaicite:11]{index=11}
-- :contentReference[oaicite:12]{index=12}
-- :contentReference[oaicite:13]{index=13}&#8203;:contentReference[oaicite:14]{index=14}
+## Import Steps
+1. Open or create a workspace.
+2. Attach at least one database.
+3. Open the three-dot menu next to the workspace name.
+4. Select **Import SQL Files**.
+5. Select your `.sql` file or `.zip` archive of files.
+6. Click **Import**.
 
-**To Import:**
-
-1. :contentReference[oaicite:15]{index=15}
-2. :contentReference[oaicite:16]{index=16}
-3. :contentReference[oaicite:17]{index=17}
-4. :contentReference[oaicite:18]{index=18}
-5. :contentReference[oaicite:19]{index=19}
-6. :contentReference[oaicite:20]{index=20}&#8203;:contentReference[oaicite:21]{index=21}

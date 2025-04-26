@@ -97,14 +97,14 @@ Before you begin, you need:
 2. **Click "Get Data"** → Select **MySQL Server** as the data source.
 
 3. **Fill out the runQL Server Connection Details:**
-| Setting | Value |
-|:--------|:------|
-| **Server** | `<HOST_IP_ADDRESS>` |
-| **Database** | `runql` |
-| **Database Type | `MySQL` |
-| **SQL Statement** | Your runSource SQL query |
-| **Username** | Any value (e.g., `readonly`) |
-| **Password** | Any value (e.g., `readonly`) |
+| Setting        | Value                           |
+|:---------------|:--------------------------------|
+| **Server**     | `<runQL_ADDRESS>`                |
+| **Database**   | `runql`                          |
+| **Database Type** | `MySQL`                       |
+| **Username**   | Any value (e.g., `readonly`)     |
+| **Password**   | Any value (e.g., `readonly`)     |
+
    
 4. **Expand "Advanced Options"** and paste your runSource SQL query into the **SQL Statement** box.
 

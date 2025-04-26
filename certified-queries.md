@@ -1,17 +1,20 @@
 ---
 layout: page
-title: "What is a Certified Query?"
+title: "Certified Queries"
 permalink: /certified-queries/
 ---
 
-## What is a Certified Query?
+# What is a Certified Query?
 
-A certified query has gone through a pull request (PR) process.&#8203;:contentReference[oaicite:1]{index=1}
+A certified query is a query that has gone through a pull request (PR) review process.
 
-1. :contentReference[oaicite:2]{index=2}
-2. :contentReference[oaicite:3]{index=3}
-3. :contentReference[oaicite:4]{index=4}&#8203;:contentReference[oaicite:5]{index=5}
+To certify a query:
+1. Save your query.
+2. Navigate to the **Versions** tab.
+3. Click the **Certify** button on the version you want certified.
 
-:contentReference[oaicite:6]{index=6}&#8203;:contentReference[oaicite:7]{index=7}
+This sends a notification to your teammates.  
+They can visit **Certifications** to review and approve pending queries.
 
-:contentReference[oaicite:8]{index=8}&#8203;:contentReference[oaicite:9]{index=9}
+✅ Once certified, a green checkmark appears next to the query version, indicating it is validated and trusted.
+

@@ -1,13 +1,13 @@
 ---
 layout: page
-title: "What is a Shared Connection?"
+title: "Shared Connections"
 permalink: /shared-connections/
 ---
 
-## Shared Connections
+# What is a Shared Connection?
 
-A **Shared Connection** is for databases that use a single set of credentials.&#8203;:contentReference[oaicite:22]{index=22}
+A **Shared Connection** is a database connection that:
+- Uses one set of credentials shared across your organization.
+- Credentials cannot be edited or viewed by others (except organizational admins).
+- Admins can enable **Hidden Details** to hide the server hostname/IP and port as well.
 
-- :contentReference[oaicite:23]{index=23}
-- :contentReference[oaicite:24]{index=24}
-- :contentReference[oaicite:25]{index=25}&#8203;:contentReference[oaicite:26]{index=26}

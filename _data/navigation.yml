@@ -1,0 +1,25 @@
+- title: Home
+  url: /
+
+- title: Query Management
+  children:
+    - title: Query History vs. Saved Queries
+      url: /query-history-vs-saved-queries/
+    - title: Certified Queries
+      url: /certified-queries/
+    - title: Importing Queries
+      url: /importing-queries/
+
+- title: Connections
+  children:
+    - title: Shared Connections
+      url: /shared-connections/
+    - title: Adding Database Connections
+      url: /adding-database-connections/
+
+- title: Virtual Query Service
+  children:
+    - title: Virtual Query Service (runSource)
+      url: /virtual-query-service/
+    - title: Using runSource with Power BI
+      url: /runsource-powerbi/

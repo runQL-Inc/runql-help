@@ -4,11 +4,17 @@ title: "runQL Documentation"
 permalink: /
 ---
 
-# runQL Docs
-
-Centralize, secure, and scale your queries — without slowing your team down.
-
-runQL is the single source of truth for your SQL workflows, built for fast-moving data teams.
+<div class="hero">
+  <h1>runQL Documentation</h1>
+  <p class="tagline">
+    One source of truth for your SQL queries.<br/>
+    Built for scale, speed, and secure collaboration.
+  </p>
+  <div class="hero-buttons">
+    <a class="button-primary" href="/getting-started/">Get Started</a>
+    <a class="button-secondary" href="https://runql.com" target="_blank">Visit runQL.com</a>
+  </div>
+</div>
 
 ---
 

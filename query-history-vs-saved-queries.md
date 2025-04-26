@@ -4,7 +4,8 @@ title: "Query History vs. Saved Queries"
 permalink: /query-history-vs-saved-queries/
 ---
 
-## What’s the Difference?
+# What is the difference between Query History and Saved Queries?
 
-- **Query History**: Captures every query you have successfully run.
-- **Saved Queries**: Captures and versions every query you save.&#8203;:contentReference[oaicite:0]{index=0}
+- **Query History** captures every query you have successfully run.
+- **Saved Queries** captures and versions every query you save.
+

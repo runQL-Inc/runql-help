@@ -1,46 +1,73 @@
 ---
 layout: home
-title: "runQL Docs"
+title: "runQL Documentation"
 permalink: /
 ---
 
-# Welcome to runQL Documentation
+# Welcome to runQL Docs
 
-**runQL** is your hub for managing, securing, and scaling SQL queries across your organization.  
-We help you bring clarity, control, and confidence to your work and ultimately to the busienss users you serve.
-
----
-
-## 🚀 Why runQL?
-
-- **Centralized Query Management**  
-  A single source of truth for your SQL queries — easy to find, update, and trust.
-
-- **Version Control & Collaboration**  
-  Built-in versioning and certification processes to ensure accuracy across teams.
-
-- **External Integrations**  
-  Leverage your query repository in external tools like Power BI and Metabase.
-
-- **Future-Proof Your Dashboards**  
-  Adapt to database changes instantly without breaking your dashboards and reports.
+**runQL** is the source of truth for your queries. Centralize, secure, and scale your data workflows with ease.
 
 ---
 
-## 📚 Documentation Index
+## 📚 Explore the Documentation
 
-Start exploring the core features and workflows:
+<div class="card-grid">
 
-- [Query History vs. Saved Queries](/query-history-vs-saved-queries/)
-- [Certified Queries](/certified-queries/)
-- [Importing Queries from Git or SQL Files](/importing-queries/)
-- [Shared Connections](/shared-connections/)
-- [Virtual Query Service (runSource)](/virtual-query-service/)
-- [Using runSource with Power BI](/runsource-powerbi/)
-- [Adding Database Connections](/adding-database-connections/)
+<div class="card">
+<a href="/query-history-vs-saved-queries/">
+<strong>Query History vs Saved Queries</strong><br/>
+Understand the difference between automatic history and saved, versioned queries.
+</a>
+</div>
+
+<div class="card">
+<a href="/certified-queries/">
+<strong>Certified Queries</strong><br/>
+Learn how to certify and validate important queries.
+</a>
+</div>
+
+<div class="card">
+<a href="/importing-queries/">
+<strong>Importing Queries</strong><br/>
+Import queries from Git exports or .sql files with ease.
+</a>
+</div>
+
+<div class="card">
+<a href="/shared-connections/">
+<strong>Shared Connections</strong><br/>
+How to manage team-wide database connections securely.
+</a>
+</div>
+
+<div class="card">
+<a href="/virtual-query-service/">
+<strong>Virtual Query Service (runSource)</strong><br/>
+Deliver stable queries to external services without leaking credentials.
+</a>
+</div>
+
+<div class="card">
+<a href="/runsource-powerbi/">
+<strong>Using runSource with Power BI</strong><br/>
+Step-by-step guide to integrate with Power BI.
+</a>
+</div>
+
+<div class="card">
+<a href="/adding-database-connections/">
+<strong>Adding Database Connections</strong><br/>
+Connect to BigQuery, Snowflake, Redshift, MongoDB, and more.
+</a>
+</div>
+
+</div>
 
 ---
 
-For more about runQL, visit the [official website](https://runql.com).
+## 🛠️ Quick Start
 
----
+👉 Jump into the [Getting Started guide](/getting-started/) (coming soon!)  
+👉 Or visit [runql.com](https://runql.com) for more product information.

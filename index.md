@@ -31,13 +31,13 @@ We help you bring clarity, control, and confidence to your work and ultimately t
 
 Start exploring the core features and workflows:
 
-- [Query History vs. Saved Queries](/query-history-vs-saved-queries/)
-- [Certified Queries](/certified-queries/)
-- [Importing Queries from Git or SQL Files](/importing-queries/)
-- [Shared Connections](/shared-connections/)
-- [Virtual Query Service (runSource)](/virtual-query-service/)
-- [Using runSource with Power BI](/runsource-powerbi/)
-- [Adding Database Connections](/adding-database-connections/)
+- [Query History vs. Saved Queries](/runql-help/query-history-vs-saved-queries/)
+- [Certified Queries](/runql-help/certified-queries/)
+- [Importing Queries from Git or SQL Files](/runql-help/importing-queries/)
+- [Shared Connections](/runql-help/shared-connections/)
+- [Virtual Query Service (runSource)](/runql-help/virtual-query-service/)
+- [Using runSource with Power BI](/runql-help/runsource-powerbi/)
+- [Adding Database Connections](/runql-help/adding-database-connections/)
 
 ---
 
